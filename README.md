@@ -6,7 +6,7 @@
 At TU Delft, we already publish [82% of our research Open Access](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/creating-your-publishing-strategy/open-access-publishing). The TU Delft Library has an [Open Publishing Platform](https://www.tudelft.nl/library/actuele-themas/open-publishing) and offers an [Open Access Fund](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/open-access-funding) up to 2000 euros for open access publication fees. You can also check the [Journal Browser](https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/publishing-outreach/journal-browser) to see if you could publish Open Access at no additional costs to you beause of deals that Dutch research institutions made with publishers. 
 
 ### Open Data
-**Open data is data that can be freely used, re-used and redistributed by anyone.** ([Open Data Handbook](https://opendatahandbook.org/guide/en/what-is-open-data/))
+**Open data is data that can be freely used, re-used and redistributed by anyone** ([Open Data Handbook](https://opendatahandbook.org/guide/en/what-is-open-data/)).
 
 At Delft, responsibilities regarding Open Data are outlined in the [policies of the TU Delft and the Faculty](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/). 
 
@@ -46,7 +46,7 @@ At TU Delft there are [licenses for electronic lab notebooks](https://www.tudelf
 At TU Delft this is offered through open textbooks, or via [MOOCs](https://online-learning.tudelft.nl/courses/) (Massive Open Online Course) and [Open Course Ware](https://ocw.tudelft.nl/). 
 
 ### Preregistration
-**Preregistration is the practise of specifying your research plan in advance of your study and submitting it to a registry.** ([Open Science Framework](https://www.cos.io/initiatives/prereg))
+**Preregistration is the practise of specifying your research plan in advance of your study and submitting it to a registry** ([Open Science Framework](https://www.cos.io/initiatives/prereg)).
 
 ### Registered Report
 **A registered report is an article format where the study proposal is peerreviewed before the research is undertaken. After approved by the reviewers, the results will be published as long as the study proposal is followed and deviations are clearly indicated. This article format facilitates the pubcliation of negative results and reduces time wasted on irrelevant study proposals.** 
@@ -54,7 +54,7 @@ At TU Delft this is offered through open textbooks, or via [MOOCs](https://onlin
 See the [Open Science Framework](https://www.cos.io/initiatives/registered-reports) for more information and resources on Registered Reports. 
 
 ### Open Peer Review
-**Open Peer Review is a peer review model in which aspects of the peer review process are made publicly available, either before or after publication.** ([PLOS](https://plos.org/resource/open-peer-review/))
+**Open Peer Review is a peer review model in which aspects of the peer review process are made publicly available, either before or after publication** ([PLOS](https://plos.org/resource/open-peer-review/)).
 
 ### Preprints
 **A preprint is a version of a scholarly or scientific paper that precedes formal peer review and publication in a peer-reviewed scholarly or scientific journal. It is usually uploaded by the authors to a public server (such as [arXiv](https://arxiv.org/) and [BioRxiv](https://www.biorxiv.org/)) where it is available openly.**
