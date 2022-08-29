@@ -41,12 +41,12 @@ At TU Delft we have an [Open Hardware Community](https://osc-delft.github.io/ini
 At TU Delft there are [licenses for electronic lab notebooks](https://www.tudelft.nl/en/library/research-data-management/r/manage/electronic-lab-notebook) that may make it easier to make these documents openly available later on. You can share your methods on protocols such as [protocols.io](https://www.protocols.io/) or via method papers (see for example [PLOS](https://plos.org/open-science/open-methods/)).
 
 ### Open Education
-**Open Education is a collective term that encompasses educational resources, tools and practices that can be freely used in the digital environment without legal, financial or technical barriers.** ([The Turing Way 2022](https://the-turing-way.netlify.app/communication/open/education.html).
+**Open Education is a collective term that encompasses educational resources, tools and practices that can be freely used in the digital environment without legal, financial or technical barriers** ([The Turing Way 2022](https://the-turing-way.netlify.app/communication/open/education.html)).
 
 At TU Delft this is offered through open textbooks, or via [MOOCs](https://online-learning.tudelft.nl/courses/) (Massive Open Online Course) and [Open Course Ware](https://ocw.tudelft.nl/). 
 
 ### Preregistration
-**Preregistration is the practise of specifying your research plan in advance of your study and submitting it to a registrydefinition.** ([Open Science Framework](https://www.cos.io/initiatives/prereg))
+**Preregistration is the practise of specifying your research plan in advance of your study and submitting it to a registry.** ([Open Science Framework](https://www.cos.io/initiatives/prereg))
 
 ### Registered Report
 **A registered report is an article format where the study proposal is peerreviewed before the research is undertaken. After approved by the reviewers, the results will be published as long as the study proposal is followed and deviations are clearly indicated. This article format facilitates the pubcliation of negative results and reduces time wasted on irrelevant study proposals.** 
