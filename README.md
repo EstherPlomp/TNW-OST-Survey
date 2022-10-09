@@ -63,10 +63,13 @@ See the [Open Science Framework](https://www.cos.io/initiatives/registered-repor
 
 
 ### Science communication/Public engagement
-**Science communication or engagement is the practice of engaging, informing, educating, and raising awareness of science-related topics.**
+**Science communication or engagement is the practice of engaging, informing, educating, and raising awareness of science-related topics.** 
+Public Engagement encompasses activities to raise interest in research, to engage the public with the research process, to translate outcomes for a non-scholarly public, and to participate in public debate. 
+Public Engagement helps researchers to address societal issues and questions from the public and to receive input from outside academia. 
+Public engagement can increase support for and trust in scholarly research.
 
 ### Citizen Science
-**The inclusion of members of the public in scientific research.**
+**The inclusion of members of the public in scientific research, to include citizens and communities in setting research priorities, and to engage them with the research process.**
 
 
 ### More information
