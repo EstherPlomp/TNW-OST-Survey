@@ -53,7 +53,8 @@ At TU Delft this is offered through open textbooks, or via [MOOCs](https://onlin
 ### Registered Report
 **A registered report is an article format where the study proposal is peerreviewed before the research is undertaken. After approved by the reviewers, the results will be published as long as the study proposal is followed and deviations are clearly indicated. This article format facilitates the pubcliation of negative results and reduces time wasted on irrelevant study proposals.** 
 
-See the [Open Science Framework](https://www.cos.io/initiatives/registered-reports) for more information and resources on Registered Reports. 
+* See the [Open Science Framework](https://www.cos.io/initiatives/registered-reports) for more information and resources on Registered Reports. 
+* See the [University of Surrey Open Research website](https://www.surrey.ac.uk/library/open-research/preregistration-and-registered-reports) for more information about preregistration and registered reports.
 
 ### Open Peer Review
 **Open Peer Review is a peer review model in which aspects of the peer review process are made publicly available, either before or after publication** ([PLOS](https://plos.org/resource/open-peer-review/)).
