@@ -51,7 +51,7 @@ At TU Delft this is offered through open textbooks, or via [MOOCs](https://onlin
 - [The What, Why, and How of Preregistration](https://www.youtube.com/watch?v=8QK2-udwoK8) (56 min seminar)
 
 ### Registered Report
-**A registered report is an article format where the study proposal is peerreviewed before the research is undertaken. After approved by the reviewers, the results will be published as long as the study proposal is followed and deviations are clearly indicated. This article format facilitates the pubcliation of negative results and reduces time wasted on irrelevant study proposals.** 
+**A registered report is an article format where the study proposal is peerreviewed before the research is undertaken. After approved by the reviewers, the results will be published as long as the study proposal is followed and deviations are clearly indicated. This article format facilitates the publication of negative results and reduces time wasted on irrelevant study proposals.** 
 
 * See the [Open Science Framework](https://www.cos.io/initiatives/registered-reports) for more information and resources on Registered Reports. 
 * See the [University of Surrey Open Research website](https://www.surrey.ac.uk/library/open-research/preregistration-and-registered-reports) for more information about preregistration and registered reports.
